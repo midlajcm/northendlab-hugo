@@ -6,7 +6,11 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Madhin eenam| Blog Template"
 [[menu.footer]]
-name = "youtube"
+name = "Facebook"
+url = "https://www.facebook.com/madhineenam/"
+weight = 3
+[[menu.footer]]
+name = "Youtube"
 url = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 weight = 2
 [[menu.footer]]
