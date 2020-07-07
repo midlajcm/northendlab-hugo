@@ -10,7 +10,7 @@ URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
 weight = "1"
 [[menu.footer]]
-URL = ""
+URL = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 name = "Youtube"
 weight = "1"
 [[menu.footer]]
