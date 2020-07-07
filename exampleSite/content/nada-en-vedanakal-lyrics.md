@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = "/images/untitled-1.jpg"
 title = "Nada en vedanakal lyrics"
 type = "post"
