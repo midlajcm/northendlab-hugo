@@ -6,20 +6,28 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Madhin eenam| Blog Template"
 [[menu.footer]]
+URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
-url = "https://www.facebook.com/madhineenam/"
-weight = 2
+weight = "1"
 [[menu.footer]]
+URL = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 name = "Youtube"
-url = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
+weight = "1"
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
 weight = 1
 [[menu.main]]
+URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
-url = "https://www.facebook.com/madhineenam/"
-weight = 2
+weight = "1"
 [[menu.main]]
+URL = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 name = "Youtube"
-url = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
+weight = "1"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -35,7 +43,7 @@ logo = "images/logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = ""
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
