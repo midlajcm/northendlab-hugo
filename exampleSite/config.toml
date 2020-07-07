@@ -69,7 +69,7 @@ icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 [[params.social]]
 icon = "ti-facebook"
-link = "#https://www.facebook.com/madhineenam/"
+link = "https://www.facebook.com/madhineenam/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
