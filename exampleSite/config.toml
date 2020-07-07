@@ -6,13 +6,17 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Madhin eenam| Blog Template"
 [[menu.footer]]
+URL = "https://www.facebook.com/madhineenam/"
+name = "Facebook"
+weight = "1"
+[[menu.footer]]
+URL = ""
+name = "Youtube"
+weight = "1"
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
 [[menu.main]]
 URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
