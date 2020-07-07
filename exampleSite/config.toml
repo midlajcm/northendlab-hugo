@@ -6,28 +6,20 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Madhin eenam| Blog Template"
 [[menu.footer]]
-URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
-weight = "1"
+url = "https://www.facebook.com/madhineenam/"
+weight = 2
 [[menu.footer]]
-URL = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 name = "Youtube"
-weight = "1"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
+url = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 weight = 1
 [[menu.main]]
-URL = "https://www.facebook.com/madhineenam/"
 name = "Facebook"
-weight = "1"
+url = "https://www.facebook.com/madhineenam/"
+weight = 2
 [[menu.main]]
-URL = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 name = "Youtube"
-weight = "1"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
+url = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
