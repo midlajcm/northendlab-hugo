@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-description: this is meta description
+description: https://telegram.me/madhineenam
 image: images/contact.svg
 
 ---
