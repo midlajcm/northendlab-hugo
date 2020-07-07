@@ -73,9 +73,6 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "telegram"
-link = "https://telegram.me/madhineenam"
-[[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UCVby6QRl-xdl-rsPciaS-FQ?view_as=subscriber"
 [[params.social]]
