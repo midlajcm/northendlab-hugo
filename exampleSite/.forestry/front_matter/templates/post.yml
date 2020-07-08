@@ -25,5 +25,4 @@ fields:
   label: type
   default: post
 pages:
-- exampleSite/content/nada-en-vedanakal-lyrics.md
 - exampleSite/content/status-song.md
