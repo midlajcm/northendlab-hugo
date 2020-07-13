@@ -25,4 +25,5 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/status-song-copy.md
 - exampleSite/content/status-song.md
