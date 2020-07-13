@@ -8,4 +8,4 @@ title = "നാഥാ എന്‍ വേദനകള്‍ status song"
 type = "post"
 
 +++
-[nada-en-vedanakal.mp4](/images/nada-en-vedanakal.mp4 "nada-en-vedanakal.mp4")
+[**nada-en-vedanakal.mp4**](/images/nada-en-vedanakal.mp4 "nada-en-vedanakal.mp4")
